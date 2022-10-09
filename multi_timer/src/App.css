@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+.App{
+  font-family: 'Noto Sans JP', sans-serif;
+  text-align: center;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Fredoka+One&display=swap');
+.logoText {
+  font-family: 'Fredoka One', cursive;
+}
